@@ -1,0 +1,2 @@
+# omokchain
+KoreaUniv CPP project
